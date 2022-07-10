@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **a NFT website**
 - 💬 Ask me about **anything :)**
 - 👯 I’m looking to collaborate on **creating a NFT collection**
-- 🌱 I’m currently improving my **HTML, CSS, JS and PY**
+- 🌱 I’m currently improving my **pixel art**
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.com/users/901551680619966514" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
