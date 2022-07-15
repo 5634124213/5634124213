@@ -1,3 +1,4 @@
+<img align="center" src="cresent.gif" />
 <h1 align="center">Hey there, I'm Cresent 🚀</h1>
 <h3 align="center">A 14 year old developer from Uzbekistan :)</h3>
 
