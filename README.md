@@ -2,7 +2,7 @@
   <img src="cresent.gif" />
 </p>
 <h1 align="center">Hey there, I'm Cresent 🚀</h1>
-<h3 align="center">A 14 year old developer from Uzbekistan :)</h3>
+<h3 align="center">A 14 year old developer from London :)</h3>
 
 - 🔭 I’m currently working on **a NFT website**
 - 💬 Ask me about **anything :)**
@@ -31,5 +31,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> </p>
 <br>
 <h3 align="left">Support me:</h3>
-<p><a href="https://ko-fi.com/cresent"> <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a></p>
+<p><a href="https://ko-fi.com/cresent"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="https://paypal.me/cresent25"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a></p>
 <br><br>
