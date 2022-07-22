@@ -32,5 +32,5 @@
 <br>
 <h3 align="left">Support me:</h3>
 <p><a href="https://ko-fi.com/cresent"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-<a href="https://paypal.me/cresent25"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a></p>
+  <a href="https://paypal.me/cresent25"><img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a></p>
 <br><br>
