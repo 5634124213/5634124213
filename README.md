@@ -1,7 +1,7 @@
 <p align="center">
   <img src="cresent.gif" />
 </p>
-<h1 align="center">Hey there, I'm Cresent 🚀</h1>
+<h1 align="center">Hey there, I'm Neutral 🚀</h1>
 <h3 align="center">A 14 year old developer from London :)</h3>
 
 - 🔭 I’m currently working on **a NFT website**
