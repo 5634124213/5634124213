@@ -8,7 +8,7 @@
   <li>👨🏻‍💻 Working on a QR code generator</li>
   <li>🍩 Improving my JavaScript</li>
   <li>🍭 Check my site out on https://neutral.lol</li>
-  <li>🐺 Currently working at Lone Wolf Studios</li>
+  <li>🐺 Currently working at Lone Wolf Studios and Hediwg's Haven</li>
 </ul>
 <h3>Socials</h3>
 <ul>
