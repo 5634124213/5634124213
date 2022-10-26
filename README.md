@@ -6,7 +6,7 @@
 <h3>About me</h3>
 <ul>
   <li>👨🏻‍💻 Working on a link shortener</li>
-  <li>🍩 Improving my JavaScript</li>
+  <li>🍩 Improving my JavaScript and basic CS</li>
   <li>🍭 Check my site out on https://neutral.lol</li>
   <li>🐺 Currently working at Lone Wolf Studios and Hediwg's Haven</li>
 </ul>
