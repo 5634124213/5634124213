@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/995774107218104410/1001814963846905936/banner_3.png" />
 </a>
 <h1 align="center">Hello, I'm Neutral 🍧</h1>
-<h4 align="center">I'm a 14 year old developer from London who is seeking to tackle through projects using a variety of tools and passionate about code!</h4>
+<h4 align="center">I'm Neutral, a developer who likes to code and is willing to take on challenges!</h4>
 <h3>About me</h3>
 <ul>
   <li>👨🏻‍💻 Working on a project</li>
