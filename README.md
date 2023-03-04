@@ -19,5 +19,6 @@
 <h3>Socials</h3>
 <ul>
   <li>Discord - https://discord.com/users/901551680619966514</li>
+  <li>Buymeacoffee - https://www.buymeacoffee.com/neutral75</li>
   <li>PayPal - https://paypal.me/neutral75</li>
 </ul>
