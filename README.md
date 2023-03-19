@@ -1,5 +1,5 @@
 <a align="center">
-  <img src="https://cdn.discordapp.com/attachments/995774107218104410/1001814963846905936/banner_3.png" />
+  <img src="./banner.png" />
 </a>
 <h1 align="center">Hello, I'm Neutral 🍧</h1>
 <h4 align="center">I'm Neutral, a developer who is very passionate about code and is willing to take on challenges!</h4>
