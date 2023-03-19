@@ -5,7 +5,7 @@
 <h4 align="center">I'm Neutral, a developer who is very passionate about code and is willing to take on challenges!</h4>
 <h3>About me</h3>
 <ul>
-  <li>👨🏻‍💻 Working on a project</li>
+  <li>👨🏻‍💻 Working on a project (LeafyLink)</li>
   <li>🍩 Improving my JavaScript and basic CS</li>
   <li>🍭 Check my site out on https://neutral.lol</li>
   <li>🐺 Currently working at <a href="https://joinplus.xyz" target="_blank">JoinPlus</a> and <a href="https://discord.gg/hedwigshaven" target="_blank">Hedwigs Haven</a></li>
