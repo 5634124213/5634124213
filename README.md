@@ -6,7 +6,8 @@
 <h3>About me</h3>
 <ul>
   <li>👨🏻‍💻 Working on a project (LeafyLink)</li>
-  <li>🍩 Improving my JavaScript and basic CS</li>
+  <li>🍩 Improving my JavaScript and basic Computer Science</li>
+  <li>🤖 Interested in AI (DM if you wanna build something related)</li>
   <li>🍭 Check my site out on https://neutral.lol</li>
   <li>🐺 Currently working at <a href="https://joinplus.xyz" target="_blank">JoinPlus</a> and <a href="https://discord.gg/hedwigshaven" target="_blank">Hedwigs Haven</a></li>
 </ul>
