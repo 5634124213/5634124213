@@ -1,15 +1,6 @@
-<a align="center">
-  <img src="./banner.png" />
-</a>
-<h1 align="center">Hello, I'm Neutral 🍧</h1>
-<h4 align="center">I'm Neutral, a developer who is very passionate about code and is willing to take on challenges!</h4>
 <h3>About me</h3>
 <ul>
-  <li>👨🏻‍💻 Working on a project (LeafyLink)</li>
-  <li>🍩 Improving my JavaScript and basic Computer Science</li>
-  <li>🤖 Interested in AI (DM if you wanna build something related)</li>
-  <li>🍭 Check my site out on https://neutral.lol</li>
-  <li>🐺 Currently working at <a href="https://joinplus.xyz" target="_blank">JoinPlus</a> and <a href="https://discord.gg/hedwigshaven" target="_blank">Hedwigs Haven</a></li>
+  <li>🍩 Currently planning on to start coding again</li>
 </ul>
 <h3>Reviews</h3>
 <ul>
@@ -19,7 +10,6 @@
 </ul>
 <h3>Socials</h3>
 <ul>
-  <li>Discord - https://discord.com/users/901551680619966514</li>
-  <li>Buymeacoffee - https://www.buymeacoffee.com/neutral75</li>
-  <li>PayPal - https://paypal.me/neutral75</li>
+  <li>Discord - https://discord.com/users/1124062541178482739</li>
+  <li>PayPal - https://paypal.me/OXR37</li>
 </ul>
