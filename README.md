@@ -10,6 +10,6 @@
 </ul>
 <h3>Socials</h3>
 <ul>
-  <li>Discord - https://discord.com/users/1124062541178482739</li>
+  <li>Discord - https://discord.com/users/1193907255360372816</li>
   <li>PayPal - https://paypal.me/OXR37</li>
 </ul>
